@@ -95,7 +95,7 @@ I've worked as an **Adobe Student Ambassador**, **Student Lab Assistant**, and *
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/amirreza-arefi-31b0aa164)
+- 💼 [LinkedIn](https://linkedin.com/in/amirreza-arefi)
 - 💻 [GitHub](https://github.com/amirrezaarefi)
 - 📧 [amirreza.arefi@sjsu.edu](mailto:amirreza.arefi@sjsu.edu)
 
