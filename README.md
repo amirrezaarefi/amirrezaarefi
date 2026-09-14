@@ -93,13 +93,6 @@ Personal budgeting application for tracking expenses, accounts, and recurring tr
 
 I've worked as an **Adobe Student Ambassador**, **Student Lab Assistant**, and **Teaching Assistant / Tutor**, where I've helped students learn programming, troubleshoot development environments, and solve technical problems.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirrezaarefi&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezaarefi&layout=compact&hide_border=true" height="165" />
-</p>
-
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/amirreza-arefi-31b0aa164)
