@@ -8,7 +8,7 @@ I'm currently looking for **New Grad / Entry-Level Software Engineering opportun
 
 - 🎓 B.S. in Computer Science — San José State University
 - 💻 Interested in Software Engineering, Full-Stack Development, Mobile Development, and Cloud Technologies
-- 🧠 Strong foundation in Data Structures, Algorithms, OOP, Databases, Operating Systems, and Software Engineering
+- 🧠 Strong foundation in Data Structures, Algorithms, Object-Oriented Programming, Databases, Operating Systems, and Software Engineering
 - 🛠️ Experience building mobile apps, database-backed applications, REST APIs, and security tools
 - ☁️ Currently expanding my experience with Google Cloud Platform and modern development tools
 - 🤝 Experience tutoring and supporting students with Java, C++, debugging, and development environments
@@ -18,20 +18,33 @@ I'm currently looking for **New Grad / Entry-Level Software Engineering opportun
 ## 🛠️ Tech Stack
 
 ### Languages
-`Java` `C++` `C` `Python` `TypeScript` `JavaScript` `SQL` `Dart` `Assembly`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,ts,js,dart" />
+</p>
 
 ### Frontend & Mobile
-`React` `React Native` `Expo` `Flutter` `HTML` `CSS` `Tailwind CSS`
 
-### Backend & Data
-`Flask` `REST APIs` `SQL Databases` `Data Modeling`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter" />
+</p>
 
-### Tools & Platforms
-`Git` `GitHub` `Google Cloud Platform` `Mapbox API` `GTFS` `Linux` `macOS` `Windows`
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,mysql,postgres,firebase" />
+</p>
+
+### Cloud & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,linux,vscode,androidstudio" />
+</p>
 
 ## 📌 Featured Projects
 
 ### 🚗 Sparko
+
 **React Native • TypeScript • Mapbox API • GTFS • Expo**
 
 Cross-platform commuter app designed for SJSU students that combines parking, public transit, and routing information.
@@ -41,6 +54,7 @@ Cross-platform commuter app designed for SJSU students that combines parking, pu
 - Combined data from multiple sources into one mobile interface
 
 ### ♻️ Recyclopedia
+
 **Java • Dart • SQL**
 
 Database-driven mobile application that helps users determine how products should be recycled or disposed of.
@@ -49,6 +63,7 @@ Database-driven mobile application that helps users determine how products shoul
 - Connected application logic with structured database-backed information
 
 ### 🎬 CineSphere
+
 **JavaScript • SQL**
 
 Social platform for film and television reviews.
@@ -57,6 +72,7 @@ Social platform for film and television reviews.
 - Designed SQL-backed data flows for users, media, reviews, and community interactions
 
 ### 🔐 Password Security & Breach Awareness
+
 **Python • Flask • React • JavaScript • CSS**
 
 Security tool for evaluating password strength and identifying potential breach exposure.
@@ -65,6 +81,7 @@ Security tool for evaluating password strength and identifying potential breach 
 - Uses **k-anonymity** to check compromised passwords without exposing plaintext passwords
 
 ### 💰 Money Minder
+
 **Java • Object-Oriented Design**
 
 Personal budgeting application for tracking expenses, accounts, and recurring transactions.
@@ -75,6 +92,13 @@ Personal budgeting application for tracking expenses, accounts, and recurring tr
 ## 💼 Experience
 
 I've worked as an **Adobe Student Ambassador**, **Student Lab Assistant**, and **Teaching Assistant / Tutor**, where I've helped students learn programming, troubleshoot development environments, and solve technical problems.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirrezaarefi&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezaarefi&layout=compact&hide_border=true" height="165" />
+</p>
 
 ## 🤝 Let's Connect
 
